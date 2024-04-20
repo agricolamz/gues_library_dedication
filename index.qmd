@@ -1,7 +1,9 @@
 ---
 title: "Следующая остановка: Библиотека им. ..."
 author: "Г. А. Мороз"
-format: html
+format: 
+  html:
+    page-layout: full
 lang: ru
 execute:
   echo: false
